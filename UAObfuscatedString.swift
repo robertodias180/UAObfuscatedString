@@ -98,7 +98,7 @@ public extension String {
     var ampersand     : String { get { return self + "&" } }
     var caret         : String { get { return self + "^" } }
     var percent       : String { get { return self + "%" } }
-    var $             : String { get { return self + "$" } }
+    var `$`           : String { get { return self + "$" } }
     var pound         : String { get { return self + "#" } }
     var at            : String { get { return self + "@" } }
     var exclamation   : String { get { return self + "!" } }
